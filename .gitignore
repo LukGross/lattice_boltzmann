@@ -1,0 +1,23 @@
+# virtual environment #
+#######################
+.venv
+venv
+.conda
+
+# python stuff #
+################
+*__pycache__
+*.ipynb_checkpoints/
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+
+# large files #
+######################
+data
+hoelscher/__pycache__/differential_mpo.cpython-312.pyc
